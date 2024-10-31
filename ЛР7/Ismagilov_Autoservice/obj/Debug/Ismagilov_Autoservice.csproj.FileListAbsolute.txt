@@ -1,0 +1,169 @@
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csproj.AssemblyReference.cache
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\AddEditPage.g.cs
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\MainWindow.g.cs
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\ServicePage.g.cs
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\App.g.cs
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_MarkupCompile.cache
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_MarkupCompile.lref
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.exe.config
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.exe
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.pdb
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\AddEditPage.baml
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\MainWindow.baml
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\ServicePage.baml
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.g.resources
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.Properties.Resources.resources
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csproj.GenerateResource.cache
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csproj.CoreCompileInputs.cache
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.exe
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.pdb
+C:\Users\almaz\3 курс\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\App.baml
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.exe.config
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.exe
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.pdb
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\AddEditPage.g.cs
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\MainWindow.g.cs
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\ServicePage.g.cs
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\App.g.cs
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_MarkupCompile.cache
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_MarkupCompile.lref
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\App.baml
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\AddEditPage.baml
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\MainWindow.baml
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\ServicePage.baml
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.g.resources
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.Properties.Resources.resources
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csproj.GenerateResource.cache
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.exe
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.pdb
+E:\А_лб3\Ismagilov_Autoservice\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csprojAssemblyReference.cache
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.exe.config
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.exe
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.pdb
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csprojAssemblyReference.cache
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\AddEditPage.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\MainWindow.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\ServicePage.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\App.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_MarkupCompile.cache
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_MarkupCompile.lref
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\App.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\AddEditPage.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\MainWindow.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\ServicePage.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.g.resources
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.Properties.Resources.resources
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csproj.GenerateResource.cache
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.exe
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.pdb
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_Content.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.dll
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.xml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csproj.CopyComplete
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csprojAssemblyReference.cache
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\AddEditPage.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\MainWindow.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\ServicePage.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\App.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_Content.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_MarkupCompile.cache
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_MarkupCompile.lref
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.exe
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.pdb
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.exe.config
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.exe
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.pdb
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.dll
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.xml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\App.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\AddEditPage.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\MainWindow.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\ServicePage.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.g.resources
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.Properties.Resources.resources
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csproj.GenerateResource.cache
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy4\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csproj.CopyComplete
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.exe.config
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.exe
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.pdb
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.dll
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.xml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csprojAssemblyReference.cache
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\AddEditPage.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\MainWindow.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\ServicePage.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\App.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_Content.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_MarkupCompile.cache
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_MarkupCompile.lref
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\App.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\AddEditPage.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\MainWindow.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\ServicePage.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.g.resources
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.Properties.Resources.resources
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csproj.GenerateResource.cache
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csproj.CopyComplete
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.exe
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.pdb
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.exe.config
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.exe
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.pdb
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.dll
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.xml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csprojAssemblyReference.cache
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\AddEditPage.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\MainWindow.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\ServicePage.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\App.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_Content.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_MarkupCompile.cache
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_MarkupCompile.lref
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\App.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\AddEditPage.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\MainWindow.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\ServicePage.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.g.resources
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.Properties.Resources.resources
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csproj.GenerateResource.cache
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csproj.CopyComplete
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.exe
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\Копия6\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.pdb
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.exe.config
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.exe
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\bin\Debug\Ismagilov_Autoservice.pdb
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.dll
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.xml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\bin\Debug\ru\EntityFramework.resources.dll
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csprojAssemblyReference.cache
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\AddEditPage.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\MainWindow.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\ServicePage.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\App.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_Content.g.cs
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_MarkupCompile.cache
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice_MarkupCompile.lref
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\App.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\AddEditPage.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\MainWindow.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\ServicePage.baml
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.g.resources
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.Properties.Resources.resources
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csproj.GenerateResource.cache
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.csproj.CopyComplete
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.exe
+D:\Documents\СТУДЕНТЫ\3 курс\Исмагилов ИСП-3322\copy6 — копия\repository\HH\Ismagilov_Autoservice\obj\Debug\Ismagilov_Autoservice.pdb
